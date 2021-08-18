@@ -1,2 +1,3 @@
-# cscs-disable-wp-update-notifications
-Disables plugin and theme update notifications
+# CSCS WordPress Helper Code 2021
+* Disables plugin and theme update notifications
+* Obscure OpenID Connect Generic Client secret key
